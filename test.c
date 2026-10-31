@@ -1,6 +1,6 @@
 //上传测试
 #include <stdio.h>
 int main(){
-    printf("hello");
+    printf("1");
     return 0;
 }
